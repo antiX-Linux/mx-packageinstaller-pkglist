@@ -2,15 +2,15 @@
 <app>
 
 <category>
-Messaging
+Kernel
 </category>
 
 <name>  
-1-to-1 Voice
+Kernel-antiX_64bit_old
 </name>
 
 <description>  
-voice chat between two pcs via encrypted mumble
+antiX Kernel 64 bit (4.4.10)
 </description>
 
 <installable>
@@ -20,20 +20,21 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-
+echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-1-to-1-voice-antix
+linux-image-4.4.10-antix-sid.1-amd64-smp
+linux-headers-4.4.10-antix-sid.1-amd64-smp
 </install_package_names>
-
 
 <postinstall>
 
 </postinstall>
 
-
 <uninstall_package_names>
-1-to-1-voice-antix
+linux-image-4.4.10-antix-sid.1-amd64-smp
+linux-headers-4.4.10-antix-sid.1-amd64-smp
 </uninstall_package_names>
+
 </app>

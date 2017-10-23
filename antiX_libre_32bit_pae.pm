@@ -6,11 +6,11 @@ Kernel
 </category>
 
 <name>  
-Kernel-antiX_64bit
+Kernel-antiX_libre_32bit_pae
 </name>
 
 <description>  
-antiX Kernel 64 bit (4.4.10)
+Libre antiX Kernel 32 bit (4.10.5-686-pae)
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-linux-image-4.4.10-antix-sid.1-amd64-smp
-linux-headers-4.4.10-antix-sid.1-amd64-smp
+linux-image-4.10.5-gnu-antix.1-686-smp-pae
+linux-headers-4.10.5-gnu-antix.1-686-smp-pae
 </install_package_names>
 
 <postinstall>
@@ -33,8 +33,8 @@ linux-headers-4.4.10-antix-sid.1-amd64-smp
 </postinstall>
 
 <uninstall_package_names>
-linux-image-4.4.10-antix-sid.1-amd64-smp
-linux-headers-4.4.10-antix-sid.1-amd64-smp
+linux-image-4.10.5-gnu-antix.1-686-smp-pae
+linux-headers-4.10.5-gnu-antix.1-686-smp-pae
 </uninstall_package_names>
 
 </app>

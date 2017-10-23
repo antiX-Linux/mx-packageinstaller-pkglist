@@ -2,15 +2,15 @@
 <app>
 
 <category>
-Messaging
+Remote Access
 </category>
 
 <name>  
-1-to-1 Voice
+SSH Conduit
 </name>
 
 <description>  
-voice chat between two pcs via encrypted mumble
+Remote resouces via an ssh encypted connection
 </description>
 
 <installable>
@@ -24,7 +24,7 @@ all
 </preinstall>
 
 <install_package_names>
-1-to-1-voice-antix
+ssh-conduit-antix
 </install_package_names>
 
 
@@ -34,6 +34,6 @@ all
 
 
 <uninstall_package_names>
-1-to-1-voice-antix
+ssh-conduit-antix
 </uninstall_package_names>
 </app>

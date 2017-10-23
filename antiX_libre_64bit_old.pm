@@ -6,7 +6,7 @@ Kernel
 </category>
 
 <name>  
-Kernel-antiX_libre_64bit
+Kernel-antiX_libre_64bit_old
 </name>
 
 <description>  

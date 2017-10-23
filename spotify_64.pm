@@ -10,7 +10,7 @@ Spotify
 </name>
 
 <description>  
-Spotify from Spotify Testing Repo
+Spotify from Spotify Repo
 </description>
 
 <installable>
