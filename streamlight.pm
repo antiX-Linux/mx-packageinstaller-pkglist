@@ -2,7 +2,7 @@
 <app>
 
 <category>
-Utility
+Video
 </category>
 
 <name>  
@@ -10,7 +10,7 @@ Streamlight
 </name>
 
 <description>  
-View Youtube Videos outside the browser by selecting links
+Stream or download Youtube videos by selecting links in any app or browser
 </description>
 
 <installable>

@@ -1,3 +1,3 @@
-# packageinstaller-pkglist
+# mx-packageinstaller-pkglist
 
-Package needed by packageinstaller
+Package needed by mx-packageinstaller-pkglist

@@ -10,7 +10,7 @@ Xfce4-lite
 </name>
 
 <description>  
-minimal install of Xfce4
+Very minimal install of Xfce4
 </description>
 
 <installable>
@@ -24,15 +24,9 @@ all
 </preinstall>
 
 <install_package_names>
-gnome-icon-theme
 xfce4
-xfce4-goodies 
 thunar-volman
 thunar
-lightdm-gtk-greeter
-lightdm
-gvfs
-policykit-1
 </install_package_names>
 
 
@@ -42,14 +36,8 @@ policykit-1
 
 
 <uninstall_package_names>
-gnome-icon-theme
 xfce4
-xfce4-goodies 
 thunar-volman
 thunar
-lightdm-gtk-greeter
-lightdm
-gvfs
-policykit-1
 </uninstall_package_names>
 </app>

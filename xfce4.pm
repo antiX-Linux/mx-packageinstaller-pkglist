@@ -10,7 +10,7 @@ Xfce4
 </name>
 
 <description>  
-xfce4
+Install xfce4 and lightdm
 </description>
 
 <installable>
