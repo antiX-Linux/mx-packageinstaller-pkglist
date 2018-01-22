@@ -1,3 +1,27 @@
+packageinstaller-pkglist (0.1.10) unstable; urgency=medium
+
+  * newer kernels 4.14.14, 4.9.77
+
+ -- anticapitalista <antix@operamail.com>  Fri, 19 Jan 2018 15:42:34 +0200
+
+packageinstaller-pkglist (0.1.9) unstable; urgency=medium
+
+  * add latest meltdown 4.9.75 486 kernel option
+
+ -- anticapitalista <antix@operamail.com>  Sat, 13 Jan 2018 00:18:59 +0200
+
+packageinstaller-pkglist (0.1.8) unstable; urgency=medium
+
+  * Added various security kernels for meltdowm issue
+
+ -- anticapitalista <antix@operamail.com>  Wed, 10 Jan 2018 18:55:21 +0200
+
+packageinstaller-pkglist (0.1.7) unstable; urgency=medium
+
+  * Added latest 4.14.9 kernel
+
+ -- anticapitalista <antix@operamail.com>  Sun, 17 Dec 2017 17:27:37 +0200
+
 packageinstaller-pkglist (0.1.6) unstable; urgency=medium
 
   * Set virtualbox to download 5.2 version

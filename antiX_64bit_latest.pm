@@ -6,11 +6,11 @@ Kernel
 </category>
 
 <name>  
-Kernel-Debian_64bit_meltdown-patched
+Kernel-antiX_64bit_latest_meltdown-patched
 </name>
 
 <description>  
-Fallback Debian 4.9 64bit linux kernel
+antiX Kernel 64 bit (4.14.14)
 </description>
 
 <installable>
@@ -20,13 +20,12 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "---- in preprocessing ----"
 echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-5-amd64
-linux-headers-4.9.0-5-amd64
+linux-image-4.14.14-antix.1-amd64-smp
+linux-headers-4.14.14-antix.1-amd64-smp
 </install_package_names>
 
 <postinstall>
@@ -34,8 +33,8 @@ linux-headers-4.9.0-5-amd64
 </postinstall>
 
 <uninstall_package_names>
-linux-image-4.9.0-5-amd64
-linux-headers-4.9.0-5-amd64
+linux-image-4.14.14-antix.1-amd64-smp
+linux-headers-4.14.14-antix.1-amd64-smp
 </uninstall_package_names>
 
 </app>

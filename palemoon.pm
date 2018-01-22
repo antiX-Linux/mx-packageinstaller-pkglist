@@ -10,7 +10,7 @@ Palemoon
 </name>
 
 <description>  
-Palemoon from the mx repo
+Palemoon lightweight browser
 </description>
 
 <installable>

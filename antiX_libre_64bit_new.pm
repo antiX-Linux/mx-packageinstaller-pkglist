@@ -6,11 +6,11 @@ Kernel
 </category>
 
 <name>  
-Kernel-antiX_libre_64bit_new
+Kernel-antiX_libre_64bit_new_meltdown-patched
 </name>
 
 <description>  
-Libre antiX Kernel 64 bit (4.13.4)
+Libre antiX Kernel 64 bit (4.9.75)
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-linux-image-4.13.4-gnu-antix.1-amd64-smp
-linux-headers-4.13.4-gnu-antix.1-amd64-smp
+linux-image-4.9.75-gnu-antix.1-amd64-smp
+linux-headers-4.9.75-gnu-antix.1-amd64-smp
 </install_package_names>
 
 <postinstall>
@@ -33,8 +33,8 @@ linux-headers-4.13.4-gnu-antix.1-amd64-smp
 </postinstall>
 
 <uninstall_package_names>
-linux-image-4.13.4-gnu-antix.1-amd64-smp
-linux-headers-4.13.4-gnu-antix.1-amd64-smp
+linux-image-4.9.75-gnu-antix.1-amd64-smp
+linux-headers-4.9.75-gnu-antix.1-amd64-smp
 </uninstall_package_names>
 
 </app>
