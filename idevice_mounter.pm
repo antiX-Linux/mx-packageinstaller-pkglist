@@ -2,15 +2,15 @@
 <app>
 
 <category>
-Kernel
+Utility
 </category>
 
 <name>  
-Kernel-antiX_64bit_meltdown_patched
+iDevice Mounter
 </name>
 
 <description>  
-antiX Kernel 64 bit Meltdown and Spectre patched (4.9.83)
+Mount the accessible parts of an iPhone's or iPad's filesystem
 </description>
 
 <installable>
@@ -20,21 +20,22 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "---- preprocessing done----"
+
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.83-antix.1-amd64-smp
-linux-headers-4.9.83-antix.1-amd64-smp
+idevice-mounter
+iphone-antix
 </install_package_names>
+
 
 <postinstall>
 
 </postinstall>
 
-<uninstall_package_names>
-linux-image-4.9.83-antix.1-amd64-smp
-linux-headers-4.9.83-antix.1-amd64-smp
-</uninstall_package_names>
 
+<uninstall_package_names>
+idevice-mounter
+iphone-antix
+</uninstall_package_names>
 </app>

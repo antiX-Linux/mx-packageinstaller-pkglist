@@ -2,31 +2,29 @@
 <app>
 
 <category>
-Desktop Environment
+Browser
 </category>
 
 <name>  
-LXDE
+Palemoon - non sse2 version - 32 bit only
 </name>
 
 <description>  
-basic install of LXDE
+Palemoon lightweight browser for PIV, PIII, PII
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/519/large.png</screenshot>
+<screenshot>http://www.palemoon.org/images/screenshots/Win10-start-portal-th.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-lxde
-gvfs
-elogind
+palemoon-nonsse2
 </install_package_names>
 
 
@@ -36,6 +34,6 @@ elogind
 
 
 <uninstall_package_names>
-lxde
+palemoon-nonsse2
 </uninstall_package_names>
 </app>

@@ -1,3 +1,21 @@
+packageinstaller-pkglist (0.1.12) unstable; urgency=medium
+
+  * newer kernels 4.15.5, 4.9.83
+  * updated Debian kernels to latest
+  * added palemoon no sse2
+  * added apt-notifier
+  * added repo-manager
+  * added idevice-mounter
+  * added icon/themes
+
+ -- anticapitalista <antix@operamail.com>  Sat, 24 Feb 2018 20:33:52 +0200
+
+packageinstaller-pkglist (0.1.11) unstable; urgency=medium
+
+  * newer kernels 4.15.4, 4.9.82 series
+
+ -- anticapitalista <antix@operamail.com>  Tue, 06 Feb 2018 17:15:23 +0200
+
 packageinstaller-pkglist (0.1.10) unstable; urgency=medium
 
   * newer kernels 4.14.14, 4.9.77

@@ -10,7 +10,7 @@ Kernel-antiX_32bit_pae
 </name>
 
 <description>  
-antiX Kernel 32 bit (4.10.5-686-pae)
+antiX Kernel 32 bit Original default pae version (4.10.5-686-pae)
 </description>
 
 <installable>

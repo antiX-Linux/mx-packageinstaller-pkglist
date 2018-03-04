@@ -2,31 +2,29 @@
 <app>
 
 <category>
-Desktop Environment
+Icons
 </category>
 
 <name>  
-LXDE
+Faba Icon Colors
 </name>
 
 <description>  
-basic install of LXDE
+a Faba icon theme with many colour choices
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/519/large.png</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-lxde
-gvfs
-elogind
+faba-colors-icon-theme
 </install_package_names>
 
 
@@ -36,6 +34,6 @@ elogind
 
 
 <uninstall_package_names>
-lxde
+faba-colors-icon-theme
 </uninstall_package_names>
 </app>

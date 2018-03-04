@@ -2,31 +2,32 @@
 <app>
 
 <category>
-Desktop Environment
+Icons
 </category>
 
 <name>  
-LXDE
+Numix Icon Themes
 </name>
 
 <description>  
-basic install of LXDE
+a comprehensive icon set including circle, square and bevel
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/519/large.png</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-lxde
-gvfs
-elogind
+numix-icon-theme
+numix-icon-theme-circle
+numix-icon-theme-square
+numix-icon-theme-bevel
 </install_package_names>
 
 
@@ -36,6 +37,10 @@ elogind
 
 
 <uninstall_package_names>
-lxde
+numix-icon-theme
+numix-icon-theme-circle
+numix-icon-theme-square
+numix-icon-theme-bevel
 </uninstall_package_names>
+
 </app>

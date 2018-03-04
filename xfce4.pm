@@ -52,9 +52,11 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 gvfs
+gvfs-backends
 lightdm
 lightdm-gtk-greeter
 policykit-1
+elogind
 </install_package_names>
 
 <postinstall>

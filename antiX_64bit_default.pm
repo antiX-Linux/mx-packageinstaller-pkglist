@@ -10,7 +10,7 @@ Kernel-antiX_64bit_default
 </name>
 
 <description>  
-antiX Kernel 64 bit (4.10.5)
+antiX Kernel 64 bit Original default version (4.10.5)
 </description>
 
 <installable>

@@ -10,7 +10,7 @@ Kernel-Debian_32bit_PAE
 </name>
 
 <description>  
-Fallback Debian 4.9 32bit PAE linux kernel
+Fallback Debian 4.9 32bit PAE linux kernel (Meltdown patched)
 </description>
 
 <installable>
@@ -25,8 +25,8 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-5-686-pae
-linux-headers-4.9.0-5-686-pae
+linux-image-4.9.0-6-686-pae
+linux-headers-4.9.0-6-686-pae
 </install_package_names>
 
 <postinstall>
@@ -34,8 +34,8 @@ linux-headers-4.9.0-5-686-pae
 </postinstall>
 
 <uninstall_package_names>
-linux-image-4.9.0-5-686-pae
-linux-headers-4.9.0-5-686-pae
+linux-image-4.9.0-6-686-pae
+linux-headers-4.9.0-6-686-pae
 </uninstall_package_names>
 
 </app>

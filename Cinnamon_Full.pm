@@ -6,26 +6,23 @@ Desktop Environment
 </category>
 
 <name>  
-LXDE
+Cinnamon-Full
 </name>
 
 <description>  
-basic install of LXDE
+Cinnamon is a desktop environment which provides advanced innovative features and a traditional user experience
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/519/large.png</screenshot>
-
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-lxde
-gvfs
+cinnamon-desktop-environment
 elogind
 </install_package_names>
 
@@ -36,6 +33,6 @@ elogind
 
 
 <uninstall_package_names>
-lxde
+cinnamon-desktop-environment
 </uninstall_package_names>
 </app>

@@ -2,31 +2,30 @@
 <app>
 
 <category>
-Desktop Environment
+Icons
 </category>
 
 <name>  
-LXDE
+Moka/Faba Icon Themes
 </name>
 
 <description>  
-basic install of LXDE
+a comprehensive icon set with a uniform flat "rounded square" look
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/519/large.png</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-lxde
-gvfs
-elogind
+moka-icon-theme
+faba-icon-theme
 </install_package_names>
 
 
@@ -36,6 +35,7 @@ elogind
 
 
 <uninstall_package_names>
-lxde
+moka-icon-theme
+faba-icon-theme
 </uninstall_package_names>
 </app>

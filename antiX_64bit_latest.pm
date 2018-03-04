@@ -10,7 +10,7 @@ Kernel-antiX_64bit_latest_meltdown-patched
 </name>
 
 <description>  
-antiX Kernel 64 bit (4.14.14)
+antiX Kernel 64 bit Meltdown and Spectre patched (4.15.5)
 </description>
 
 <installable>
@@ -24,8 +24,10 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-linux-image-4.14.14-antix.1-amd64-smp
-linux-headers-4.14.14-antix.1-amd64-smp
+linux-image-4.15.5-antix.1-amd64-smp
+linux-headers-4.15.5-antix.1-amd64-smp
+libelf-dev
+libc6-dev
 </install_package_names>
 
 <postinstall>
@@ -33,8 +35,8 @@ linux-headers-4.14.14-antix.1-amd64-smp
 </postinstall>
 
 <uninstall_package_names>
-linux-image-4.14.14-antix.1-amd64-smp
-linux-headers-4.14.14-antix.1-amd64-smp
+linux-image-4.15.5-antix.1-amd64-smp
+linux-headers-4.15.5-antix.1-amd64-smp
 </uninstall_package_names>
 
 </app>

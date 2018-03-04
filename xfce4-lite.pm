@@ -27,6 +27,8 @@ all
 xfce4
 thunar-volman
 thunar
+gvfs
+elogind
 </install_package_names>
 
 

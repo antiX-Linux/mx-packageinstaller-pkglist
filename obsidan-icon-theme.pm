@@ -2,31 +2,29 @@
 <app>
 
 <category>
-Desktop Environment
+Icons
 </category>
 
 <name>  
-LXDE
+Obsidian Icon Theme
 </name>
 
 <description>  
-basic install of LXDE
+fork of the popular icon theme Faenza, primary developed for dark themes. 
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/519/large.png</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-lxde
-gvfs
-elogind
+obsidian-icon-theme
 </install_package_names>
 
 
@@ -36,6 +34,6 @@ elogind
 
 
 <uninstall_package_names>
-lxde
+obsidian-icon-theme
 </uninstall_package_names>
 </app>

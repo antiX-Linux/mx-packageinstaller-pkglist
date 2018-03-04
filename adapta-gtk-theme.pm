@@ -2,31 +2,29 @@
 <app>
 
 <category>
-Desktop Environment
+Themes
 </category>
 
 <name>  
-LXDE
+Adapta Gtk Theme
 </name>
 
 <description>  
-basic install of LXDE
+a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/519/large.png</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-lxde
-gvfs
-elogind
+adapta-gtk-theme
 </install_package_names>
 
 
@@ -36,6 +34,6 @@ elogind
 
 
 <uninstall_package_names>
-lxde
+adapta-gtk-theme
 </uninstall_package_names>
 </app>

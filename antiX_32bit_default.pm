@@ -10,7 +10,7 @@ Kernel-antiX_32bit_default
 </name>
 
 <description>  
-antiX Kernel 32 bit (4.10.5-486)
+antiX Kernel 32 bit Original default version (4.10.5-486)
 </description>
 
 <installable>

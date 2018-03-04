@@ -26,6 +26,8 @@ all
 <install_package_names>
 mate-core
 mate-desktop-environment
+elogind
+gvfs
 </install_package_names>
 
 
