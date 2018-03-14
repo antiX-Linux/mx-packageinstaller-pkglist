@@ -1,3 +1,11 @@
+packageinstaller-pkglist (0.2.0) unstable; urgency=medium
+
+  * new kernels
+  * added plex
+  * bumped version for antiX-17.1 release
+
+ -- anticapitalista <antix@operamail.com>  Wed, 14 Mar 2018 19:57:25 +0200
+
 packageinstaller-pkglist (0.1.12) unstable; urgency=medium
 
   * newer kernels 4.15.5, 4.9.83

@@ -6,15 +6,15 @@ Kernel
 </category>
 
 <name>  
-Kernel-antiX_32bit_meltdown_patched
+Kernel-antiX_32bit
 </name>
 
 <description>  
-antiX Kernel 32 bit Meltdown and Spectre patched (4.9.83-486)
+antiX Kernel 32 bit (4.9.87-486)
 </description>
 
 <installable>
-all
+32
 </installable>
 
 <screenshot>none</screenshot>
@@ -24,8 +24,8 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.83-antix.1-486-smp
-linux-headers-4.9.83-antix.1-486-smp
+linux-image-4.9.87-antix.1-486-smp
+linux-headers-4.9.87-antix.1-486-smp
 </install_package_names>
 
 <postinstall>
@@ -33,8 +33,8 @@ linux-headers-4.9.83-antix.1-486-smp
 </postinstall>
 
 <uninstall_package_names>
-linux-image-4.9.83-antix.1-486-smp
-linux-headers-4.9.83-antix.1-486-smp
+linux-image-4.9.87-antix.1-486-smp
+linux-headers-4.9.87-antix.1-486-smp
 </uninstall_package_names>
 
 </app>

@@ -14,7 +14,7 @@ antiX Kernel 32 bit Original default version (4.10.5-486)
 </description>
 
 <installable>
-all
+32
 </installable>
 
 <screenshot>none</screenshot>

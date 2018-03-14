@@ -14,7 +14,7 @@ Fallback Debian 4.9 64bit linux kernel (Meltdown patched)
 </description>
 
 <installable>
-all
+64
 </installable>
 
 <screenshot>none</screenshot>

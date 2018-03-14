@@ -10,11 +10,11 @@ Kernel-Debian_32bit_PAE
 </name>
 
 <description>  
-Fallback Debian 4.9 32bit PAE linux kernel (Meltdown patched)
+Fallback Debian 4.9 32bit PAE linux kernel 
 </description>
 
 <installable>
-all
+32
 </installable>
 
 <screenshot>none</screenshot>

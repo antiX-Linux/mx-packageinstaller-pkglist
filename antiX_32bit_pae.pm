@@ -14,7 +14,7 @@ antiX Kernel 32 bit Original default pae version (4.10.5-686-pae)
 </description>
 
 <installable>
-all
+32
 </installable>
 
 <screenshot>none</screenshot>

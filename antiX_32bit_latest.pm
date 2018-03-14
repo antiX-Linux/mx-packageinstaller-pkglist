@@ -6,15 +6,15 @@ Kernel
 </category>
 
 <name>  
-Kernel-antiX_32bit_latest_meltdown_patched
+Kernel-antiX_32bit_latest
 </name>
 
 <description>  
-antiX Kernel 32 bit Meltdown and Spectre patched  (4.15.5-486)
+antiX Kernel 32 bit (4.15.9-486)
 </description>
 
 <installable>
-all
+32
 </installable>
 
 <screenshot>none</screenshot>
@@ -24,8 +24,8 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-linux-image-4.15.5-antix.1-486-smp
-linux-headers-4.15.5-antix.1-486-smp
+linux-image-4.15.9-antix.1-486-smp
+linux-headers-4.15.9-antix.1-486-smp
 libelf-dev
 libc6-dev
 </install_package_names>
@@ -35,8 +35,8 @@ libc6-dev
 </postinstall>
 
 <uninstall_package_names>
-linux-image-4.15.5-antix.1-486-smp
-linux-headers-4.15.5-antix.1-486-smp
+linux-image-4.15.9-antix.1-486-smp
+linux-headers-4.15.9-antix.1-486-smp
 </uninstall_package_names>
 
 </app>

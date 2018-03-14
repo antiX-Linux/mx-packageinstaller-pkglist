@@ -14,7 +14,7 @@ antiX Kernel 64 bit Original default version (4.10.5)
 </description>
 
 <installable>
-all
+64
 </installable>
 
 <screenshot>none</screenshot>
